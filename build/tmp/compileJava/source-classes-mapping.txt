@@ -1,0 +1,16 @@
+com/gluonapplication/views/PrimaryPresenter.java
+ com.gluonapplication.views.PrimaryPresenter
+com/gluonapplication/DrawerManager.java
+ com.gluonapplication.DrawerManager
+com/gluonapplication/views/PrimaryView.java
+ com.gluonapplication.views.PrimaryView
+com/gluonapplication/views/SecondaryView.java
+ com.gluonapplication.views.SecondaryView
+com/gluonapplication/views/SecondaryPresenter.java
+ com.gluonapplication.views.SecondaryPresenter
+com/gluonapplication/SettingsBot.java
+ com.gluonapplication.SettingsBot
+com/gluonapplication/GluonApplication.java
+ com.gluonapplication.GluonApplication
+com/gluonapplication/JsonWizard.java
+ com.gluonapplication.JsonWizard
